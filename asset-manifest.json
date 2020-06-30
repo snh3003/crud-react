@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/snh3003.github.io/crud-react/static/css/main.629dfc0e.chunk.css",
+    "main.js": "/snh3003.github.io/crud-react/static/js/main.aec7e248.chunk.js",
+    "main.js.map": "/snh3003.github.io/crud-react/static/js/main.aec7e248.chunk.js.map",
+    "runtime-main.js": "/snh3003.github.io/crud-react/static/js/runtime-main.96d0c1f3.js",
+    "runtime-main.js.map": "/snh3003.github.io/crud-react/static/js/runtime-main.96d0c1f3.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/snh3003.github.io/crud-react/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.b919af1a.chunk.js": "/snh3003.github.io/crud-react/static/js/2.b919af1a.chunk.js",
+    "static/js/2.b919af1a.chunk.js.map": "/snh3003.github.io/crud-react/static/js/2.b919af1a.chunk.js.map",
+    "index.html": "/snh3003.github.io/crud-react/index.html",
+    "precache-manifest.f496ec90e133f44df2019c4fd0f6e160.js": "/snh3003.github.io/crud-react/precache-manifest.f496ec90e133f44df2019c4fd0f6e160.js",
+    "service-worker.js": "/snh3003.github.io/crud-react/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/snh3003.github.io/crud-react/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.629dfc0e.chunk.css.map": "/snh3003.github.io/crud-react/static/css/main.629dfc0e.chunk.css.map",
+    "static/js/2.b919af1a.chunk.js.LICENSE.txt": "/snh3003.github.io/crud-react/static/js/2.b919af1a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96d0c1f3.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.b919af1a.chunk.js",
+    "static/css/main.629dfc0e.chunk.css",
+    "static/js/main.aec7e248.chunk.js"
+  ]
+}
